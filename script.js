@@ -28,7 +28,7 @@ questions.set("question3", {
   a1: "08:00",
   a2: "10:00",
   a3: "Lol! What do you mean waking up in the morning?",
-  a4: "When see needs to pee",
+  a4: "When she needs to pee",
   correct: "Lol! What do you mean waking up in the morning?",
 });
 
@@ -37,7 +37,7 @@ questions.set("question4", {
   a1: "Wearing your shoes inside the house",
   a2: "Lying",
   a3: "Texting her too many times",
-  a4: "Telling her that her hair are messy",
+  a4: "Telling her that her hair is messy",
   correct: "Wearing your shoes inside the house",
 });
 
